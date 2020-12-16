@@ -43,13 +43,14 @@ public class SceneUI : MonoBehaviour
 
     private void Start()
     {
+        Application.targetFrameRate = 300;
         DontDestroyOnLoad(UIRootObject);
         SceneManager.LoadScene("main");
         WhiteList.Add(text.gameObject);
     }
     private void Update()
     {
-        text.text = "Now at: " + SceneManager.GetActiveScene().name;
+        text.text = "Now at: " + SceneManager.GetActiveScene().name + "  Fps: " + Math.Floor(1/Time.deltaTime);
         InputManager();
     }
 

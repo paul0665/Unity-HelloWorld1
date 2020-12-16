@@ -29,10 +29,10 @@ using UnityEngine;
 public class BallScript : MonoBehaviour
 {
     public GameObject ball;
-    public float speed = 0.01f;
+    public float speed = 0.1f;
     private void OnTriggerExit(Collider other)
     {
-        ball.GetComponent<Renderer>().material.color = Color.white;
+        ball.GetComponent<MeshRenderer>().sharedMaterial.color = Color.white;
     }
     private void OnTriggerEnter(Collider other)
     {

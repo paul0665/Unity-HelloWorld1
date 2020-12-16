@@ -9,7 +9,7 @@ EditorBuildSettings:
     path: Assets/Scenes/UIscene.unity
     guid: 92f6a0ece6c75744eaba315699af2195
   - enabled: 1
-    path: Assets/Scenes/main.unity
+    path: Assets/Scenes/main/main.unity
     guid: 8e7521ef082964042a4ee686f3b747e6
   - enabled: 1
     path: Assets/Scenes/Scnen1/Scene1.unity
@@ -20,4 +20,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Scene3.unity
     guid: 89e0604e0450f5c4a942776f7eb7154d
-  m_configObjects: {}
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 9f1ec22c6f0903d46a545249aaca525c, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: e248cbb67bb248a47a06fb7956b79036, type: 2}
