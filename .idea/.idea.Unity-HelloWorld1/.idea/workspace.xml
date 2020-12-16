@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed52f1d9-b9ad-4655-8005-69269833d53c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Unity-HelloWorld1/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Unity-HelloWorld1/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Unity-HelloWorld1/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Unity-HelloWorld1/.idea/indexLayout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Canvas.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Canvas.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/RenderChecker.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/RenderChecker.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SceneUI.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SceneUI.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Scnen1/BallScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Scnen1/BallScript.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/UIscene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/UIscene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/UIscene.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/UIscene.unity.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/main.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/main.unity" afterDir="false" />
-    </list>
+    <list default="true" id="ed52f1d9-b9ad-4655-8005-69269833d53c" name="Default Changelist" comment="add setting" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +9,10 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.20/UnityEditor.TestRunner/TestLaunchers/PlatformSetup/AndroidPlatformSetup.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/obj/Debug/.NETFramework,Version=v4.7.1.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
@@ -82,8 +76,16 @@
       <option name="presentableId" value="Default" />
       <updated>1608100063715</updated>
       <workItem from="1608100065708" duration="669000" />
-      <workItem from="1608101473400" duration="1851000" />
+      <workItem from="1608101473400" duration="2149000" />
     </task>
+    <task id="LOCAL-00001" summary="add setting">
+      <created>1608103588656</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608103588656</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,4 +93,8 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add setting" />
+    <option name="LAST_COMMIT_MESSAGE" value="add setting" />
+  </component>
 </project>
