@@ -44,6 +44,7 @@
      <Compile Include="Assets\Scenes\RenderChecker.cs" />
      <Compile Include="Assets\Scenes\Scnen1\BallScript.cs" />
      <Compile Include="Assets\Scenes\SceneUI.cs" />
+     <Compile Include="Assets\Extensions\ChiliasmStudio\LICENSE_MIT.cs" />
      <Reference Include="UnityEngine">
      <HintPath>D:/EXEs/unity/2020.2.0f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
      </Reference>

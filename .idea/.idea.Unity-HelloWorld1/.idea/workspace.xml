@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed52f1d9-b9ad-4655-8005-69269833d53c" name="Default Changelist" comment="add setting" />
+    <list default="true" id="ed52f1d9-b9ad-4655-8005-69269833d53c" name="Default Changelist" comment="add setting">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Unity-HelloWorld1/.idea/copyright/MIT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Unity-HelloWorld1/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Unity-HelloWorld1/.idea/dictionaries/admin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Unity-HelloWorld1/.idea/scopes/MIT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Unity-HelloWorld1/.idea/scopes/MITL.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Unity-HelloWorld1/.idea/scopes/MITS.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Extensions/ChiliasmStudio.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Extensions/ChiliasmStudio/LICENSE_MIT.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Extensions/ChiliasmStudio/LICENSE_MIT.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Unity-HelloWorld1/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Unity-HelloWorld1/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Unity-HelloWorld1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Unity-HelloWorld1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Canvas.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Canvas.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/RenderChecker.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/RenderChecker.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SceneUI.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SceneUI.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Scnen1/BallScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Scnen1/BallScript.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/UIscene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/UIscene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,10 +37,24 @@
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
+      <option value="$PROJECT_DIR$/Assets/Extensions/ChiliasmStudio/LICENSE.cs" />
+      <option value="$APPLICATION_CONFIG_DIR$/rider64.exe.vmoptions" />
+      <option value="$PROJECT_DIR$/Assets/Scenes/bh.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scenes/Scnen1/BallScript.cs" />
       <option value="$PROJECT_DIR$/Assets/Scenes/RenderChecker.cs" />
       <option value="$PROJECT_DIR$/Assets/Scenes/SceneUI.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scenes/Scnen1/BallScript.cs" />
+      <option value="$PROJECT_DIR$/Assets/Extensions/ChiliasmStudio/LICENSE_MIT.cs" />
     </changedPaths>
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="b0tdp5lh" />
+  </component>
+  <component name="NamedScopeManager">
+    <order>
+      <scope name="MIT" />
+      <scope name="MITL" />
+      <scope name="MITS" />
+    </order>
   </component>
   <component name="ProjectId" id="1ljAK6MWb4jT1tNXqJIOUW32I8n" />
   <component name="ProjectViewState">
@@ -37,6 +72,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
@@ -76,7 +112,11 @@
       <option name="presentableId" value="Default" />
       <updated>1608100063715</updated>
       <workItem from="1608100065708" duration="669000" />
-      <workItem from="1608101473400" duration="2149000" />
+      <workItem from="1608101473400" duration="11415000" />
+      <workItem from="1608113890686" duration="892000" />
+      <workItem from="1608114811860" duration="1438000" />
+      <workItem from="1608116278891" duration="331000" />
+      <workItem from="1608116646920" duration="956000" />
     </task>
     <task id="LOCAL-00001" summary="add setting">
       <created>1608103588656</created>
@@ -85,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608103588656</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add setting">
+      <created>1608103704373</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608103704373</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,5 +143,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add setting" />
     <option name="LAST_COMMIT_MESSAGE" value="add setting" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
